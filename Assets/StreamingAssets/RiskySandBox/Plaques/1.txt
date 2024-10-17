@@ -1,0 +1,8 @@
+lethality:0.1
+duration:3
+n_tiles_start:1
+test_cost:1
+vaccine_cost:10
+treatment_cost:2
+disease_name:the common cold
+infectivity:0.1

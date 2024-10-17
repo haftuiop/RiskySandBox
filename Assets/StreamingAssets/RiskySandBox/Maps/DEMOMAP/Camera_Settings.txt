@@ -1,0 +1,4 @@
+position:-0.8815192,8.718665,-0.8407217
+fov:60
+camera_movement_speed_xz:1
+camera_movement_speed_y:1

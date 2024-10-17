@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 92e60c5c-e386-42ed-bd51-735ba1286ba8
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: eu
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - ServerInvokedRPC_SET_num_troops
+  - SeverInvokedRPC_SET_my_Team
+  - ServerInvokedRPC_createTile
+  - ClientInvokedRPC_attack
+  - ClientInvokedRPC_capture
+  - ClientInvokedRPC_deploy
+  - ClientInvokedRPC_fortify
+  - ClientInvokedRPC_nextState
+  - ClientInvokedRPC_goToNextTurnState
+  - ServerInvokedRPC_Ondeploy
+  - ServerInvokedRPC_SET_my_Team
+  - ClientInvokedRPC_damageObject
+  - ClientInvokedRPC_equipItem
+  - ClientInvokedRPC_useItem
+  - PunRPC_receiveNewValue_ObservableBool
+  - PunRPC_receiveNewValue_ObservableFloat
+  - PunRPC_receiveNewValue_ObservableInt
+  - PunRPC_receiveNewValue_ObservableString
+  - PunRPC_receiveNewValue_ObservableVector3
+  - RPC_receiveChatMessage
+  - ServerInvokedRPC_equipItem
+  - ServerInvokedRPC_invokeEvent_Onheal
+  - ServerInvokedRPC_invokeEvent_OntakeDamage
+  - ServerInvokedRPC_invokeEvent_OnuseItem
+  - ServerInvokedRPC_Onattack
+  - ServerInvokedRPC_endGame
+  - ServerInvokedRPC_loadMap
+  - ClientInvokedRPC_placeCapital
+  - ServerInvokedRPC_SET_has_capital
+  - ClientInvokedRPC_tradeInTerritoryCards
+  - ServerInvokedRPC_Oncapture
+  - ServerInvokedRPC_Onfortify
+  - ServerInvokedRPC_createBonus
+  - ServerInvokedRPC_receiveMeshData
+  - ServerInvokedRPC_syncConnections
+  - ClientInvokedRPC_joinTeam
+  - Pun_RPCreceiveNewValue_ObservableIntList
+  - ReceiveTexture
+  - Pun_RPCreceiveNewValue_ObservableVector3List
+  - ClientInvokedRPC_purchaseItem
+  - receiveChatMessage
+  - receiveEmoteMessage
+  - receiveTextMessage
+  - Pun_RPCreceiveNewValue_ObservableFloatList
+  - Pun_RPCreceiveNewValue_ObservableStringList
+  - ServerInvokedRPC_Onnuke
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1
