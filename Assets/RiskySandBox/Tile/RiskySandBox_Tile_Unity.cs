@@ -5,6 +5,7 @@ using UnityEngine;
 public partial class RiskySandBox_Tile : PrototypingAssets_Tile
 {
 
+    public static event Action<RiskySandBox_Tile> OnVariableUpdate_my_LevelEditor_Material_STATIC;
 
     public static RiskySandBox_Tile GET_RiskySandBox_Tile(Collider _Collider)
     {
@@ -20,6 +21,7 @@ public partial class RiskySandBox_Tile : PrototypingAssets_Tile
         {
             this.PRIVATE_my_LevelEditor_Material = value;
             updateVisuals();
+            RiskySandBox_Tile.OnVariableUpdate_my_LevelEditor_Material_STATIC?.Invoke(this);
         }
     }
     [SerializeField] Material PRIVATE_my_LevelEditor_Material;

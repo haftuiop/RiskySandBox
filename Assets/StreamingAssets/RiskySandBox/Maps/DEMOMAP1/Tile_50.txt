@@ -1,8 +1,0 @@
-verts:-3.174,0,6.011,-1.282,0,6.557,1.388,0,6.532001,0.955,0,5.281
-ID:50
-num_troops:0
-team:-1
-name:
-position:0,0,0
-UI_scale_factor:1
-UI_position:-0.3114635,0.01,6.05074

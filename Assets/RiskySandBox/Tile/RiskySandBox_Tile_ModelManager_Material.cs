@@ -28,6 +28,8 @@ public partial class RiskySandBox_Tile_ModelManager_Material : MonoBehaviour
         RiskySandBox_HumanPlayer.OnVariableUpdate_attack_target_STATIC += EventReceiver_OnVariableUpdate_attack_target;
         RiskySandBox_HumanPlayer.OnVariableUpdate_fortify_start_STATIC += EventReceiver_OnVariableUpdate_fortify_start;
         RiskySandBox_HumanPlayer.OnVariableUpdate_fortify_target_STATIC += EventReceiver_OnVariableUpdate_fortify_target;
+
+        RiskySandBox_Tile.OnVariableUpdate_my_LevelEditor_Material_STATIC += EventReceiver_OnVariableUpdate_my_LevelEditor_Material;
     }
 
     private void OnDestroy()
@@ -39,6 +41,8 @@ public partial class RiskySandBox_Tile_ModelManager_Material : MonoBehaviour
         RiskySandBox_HumanPlayer.OnVariableUpdate_attack_target_STATIC -= EventReceiver_OnVariableUpdate_attack_target;
         RiskySandBox_HumanPlayer.OnVariableUpdate_fortify_start_STATIC -= EventReceiver_OnVariableUpdate_fortify_start;
         RiskySandBox_HumanPlayer.OnVariableUpdate_fortify_target_STATIC -= EventReceiver_OnVariableUpdate_fortify_target;
+
+        RiskySandBox_Tile.OnVariableUpdate_my_LevelEditor_Material_STATIC -= EventReceiver_OnVariableUpdate_my_LevelEditor_Material;
     }
 
     void EventReceiver_OnVariableUpdate_deploy_target(RiskySandBox_HumanPlayer _HumanPlayer) { updateMaterial(); }
@@ -47,7 +51,7 @@ public partial class RiskySandBox_Tile_ModelManager_Material : MonoBehaviour
     void EventReceiver_OnVariableUpdate_fortify_start(RiskySandBox_HumanPlayer _HumanPlayer) { updateMaterial(); }
     void EventReceiver_OnVariableUpdate_fortify_target(RiskySandBox_HumanPlayer _HumanPlayer) { updateMaterial(); }
     void EventReceiver_OnVariableUpdate_display_bonuses(ObservableBool _display_bonuses) { this.updateMaterial(); }
-
+    void EventReceiver_OnVariableUpdate_my_LevelEditor_Material(RiskySandBox_Tile _Tile){ if (_Tile == this.my_Tile) { this.updateMaterial(); } }
 
 
     // Start is called before the first frame update

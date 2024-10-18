@@ -1,0 +1,8 @@
+generation:9
+name:a1
+tiles:14,15,16,46,17,18,19
+my_Color:0,0,255
+ui_scale:0.05
+ui_position:21.73,0.01,26.774
+border_width:1
+borders:

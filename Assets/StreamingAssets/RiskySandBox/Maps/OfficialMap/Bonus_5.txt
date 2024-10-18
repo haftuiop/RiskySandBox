@@ -1,0 +1,8 @@
+generation:284617
+name:a2
+tiles:38,36,35,34,33,32,37
+my_Color:128,128,128
+ui_scale:0.05
+ui_position:-0.84,0.01,-18.291
+border_width:1
+borders:

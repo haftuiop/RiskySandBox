@@ -1,0 +1,8 @@
+verts:12.295,0,14.437,12.17,0,13.078,17.634,0,13.162,17.189,0,14.766
+ID:46
+num_troops:0
+team:-1
+name:
+position:0,0,0
+UI_scale_factor:3
+UI_position:14.822,0.01,13.86075

@@ -1,0 +1,8 @@
+generation:24125
+name:m2
+tiles:39,40,41,42,43,44,45
+my_Color:0,0,0
+ui_scale:0.05
+ui_position:21.926,0.01,-17.837
+border_width:1
+borders:
