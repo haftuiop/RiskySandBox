@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 3b669718649574351b767fce805a417a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PRIVATE_black: {fileID: 2100000, guid: eab75e8f6b46d9b428ddb6da9a94c093, type: 2}
+  - PRIVATE_blue: {fileID: 2100000, guid: 045ae8f96b56db145ac6fdda542fb568, type: 2}
+  - PRIVATE_brown: {fileID: 2100000, guid: 5752b15ac5926d84c8b13d849c3d6738, type: 2}
+  - PRIVATE_cyan: {fileID: 2100000, guid: 8021d6e783f4d84488f56c7b263c53a8, type: 2}
+  - PRIVATE_dark_green: {fileID: 2100000, guid: 7e1f680f8c7f843d68d91a1171652d82, type: 2}
+  - PRIVATE_green: {fileID: 2100000, guid: 58959beed36d866469b4dfceb57ece64, type: 2}
+  - PRIVATE_grey: {fileID: 2100000, guid: f1039378c7a17fc48af6197d9ffc35a1, type: 2}
+  - PRIVATE_orange: {fileID: 2100000, guid: 96d6da6628f9a1d45bec51cf05200c15, type: 2}
+  - PRIVATE_pink: {fileID: 2100000, guid: e40a84476b7bb694c91bfaf0c537c42a, type: 2}
+  - PRIVATE_purple: {fileID: 2100000, guid: ac84df82758876149a9d7782352eb913, type: 2}
+  - PRIVATE_red: {fileID: 2100000, guid: 325f9cfd7732f5a42b24dbe52efe7e1b, type: 2}
+  - PRIVATE_white: {fileID: 2100000, guid: e277d8284cf99db4080c1dc94d3bd276, type: 2}
+  - PRIVATE_yellow: {fileID: 2100000, guid: 235bd93853157c64d92204e4ebb52182, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1 @@
+﻿so TextureExample can be used to make a "fog of war" style effect

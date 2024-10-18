@@ -1,0 +1,16 @@
+{
+    "name": "ResourceLoader",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3481245c73603f64fa0ce28e4063d44c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
