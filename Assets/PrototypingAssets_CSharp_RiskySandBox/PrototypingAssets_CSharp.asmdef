@@ -1,0 +1,19 @@
+{
+    "name": "PrototypingAssets_CSharp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a33558a7e59456545a54242dcff65417",
+        "GUID:bbd5a617a72eff04eb364f7ad3f4cb9f",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:2db999b45d52041a1b7a7b8590826200"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
