@@ -21,3 +21,6 @@ I will come back to this in 1 week... even if it is just to complete untangleing
 https://www.youtube.com/watch?v=MelvH3EMGR0
 
 ok lesson learnt... 
+
+
+ok also random crits in tf2 are the worst (apart from on the scottsman skull cutter :D)
