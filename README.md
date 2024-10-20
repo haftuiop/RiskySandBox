@@ -13,3 +13,5 @@ anyone claiming to be haftuiop or monkeywearingafezwithamop isnt
 
 
 btw please do make a giant fuss and do something stupid :) it will just be free advertising for me for my next project lol.
+
+to everyone else... have a nice day/week/month/year/10 years/100 years (hopefully...)
