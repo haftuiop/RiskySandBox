@@ -1,0 +1,11 @@
+﻿hello! this is the todo list... if you complete/help complete ANY of them, you may add your name to the credits.txt (at the end of the current list)
+
+
+
+anyone:
+    1) put link to my discord,reddit, youtube etc. in credits menu
+    2) put sebasstaian lague into the credits "thanks for the shape editor tool!" https://www.youtube.com/watch?v=bPO7_JNWNmI
+    3) put "Wouter Lambrecht" into the credits (for writing the blizard code)
+    4) make a special thanks ui that simply says "everyone who has net increased happiness" (or words to that effect... I don't know exactly what the phrasing should be)
+    5) download? each of the videos in the playlist and compress and add to this project? how do you make sure the videos stay with the project... even if youtube fails? (update lisence page?)
+    6) make the "credits page" go through the list in the Credits.txt file... does it have to be in /Assets???
