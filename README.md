@@ -16,7 +16,6 @@ btw please do make a giant fuss and do something stupid :) it will just be free 
 
 to everyone else... have a nice day/week/month/year/10 years/100 years (hopefully...)
 
-I will come back to this one day... even if it is just to complete untangleing the level editor out from the rest of the game....
+I will come back to this in 1 week... even if it is just to complete untangleing the level editor out from the rest of the game....
 
 https://www.youtube.com/watch?v=MelvH3EMGR0
-
